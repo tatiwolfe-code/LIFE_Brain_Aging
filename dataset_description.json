@@ -1,0 +1,14 @@
+{
+  "Name": "LIFE Data Release — analysis and figure/table generation code",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "LIFE Technical Validation pipeline",
+      "Description": "Scripts that operate on the finished LIFE BIDS dataset to generate the LIFE data-descriptor manuscript figures and the table values (as CSV).",
+      "CodeURL": "https://github.com/tatiwolfe-code/LIFE_Brain_Aging"
+    }
+  ],
+  "HowToAcknowledge": "Please cite the LIFE data-descriptor manuscript (Wolfe et al.).",
+  "Authors": ["Wolfe, Tatiana"]
+}

@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the LIFE dataset (preferred-citation below)."
+title: "LIFE Data Release — analysis and figure/table generation code"
+abstract: >-
+  Analysis, quality-control and figure/table generation code for the Lifespan
+  Imaging and Function in Elders (LIFE) data descriptor. Operates on the
+  released LIFE BIDS dataset (OpenNeuro ds009071).
+authors:
+  - family-names: Wolfe
+    given-names: Tatiana
+    email: tati.wolfe@gmail.com
+    orcid: "https://orcid.org/0000-0002-2425-705X"
+version: "v2026.11.06"
+date-released: "2026-11-06"
+license: MIT
+license-url: "LICENSE"
+repository-code: "https://github.com/tatiwolfe-code/LIFE_Brain_Aging"
+keywords:
+  - neuroimaging
+  - aging
+  - BIDS
+  - cognitive flexibility
+  - MRI
+preferred-citation:
+  type: dataset
+  title: >-
+    A multimodal neuroimaging and cognitive flexibility dataset in aging
+    adults: The Lifespan Imaging and Function in Elders (LIFE) Study
+  doi: "10.18112/openneuro.ds009071.v1.0.0"
+  year: 2026
+  authors:
+    - family-names: Wolfe
+      given-names: T.
+    - family-names: Calvert
+      given-names: M. L.
+    - family-names: Isaac
+      given-names: L.
+    - family-names: Clontz
+      given-names: S.
+    - family-names: Shell
+      given-names: A.
+    - family-names: Kelly
+      given-names: E.
+    - family-names: Dunn
+      given-names: L. B.
+    - family-names: Koscik
+      given-names: T.
+    - family-names: James
+      given-names: G. A.
