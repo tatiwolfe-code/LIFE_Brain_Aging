@@ -24,9 +24,9 @@ keywords:
 preferred-citation:
   type: dataset
   title: >-
-    A multimodal neuroimaging and cognitive flexibility dataset in aging
-    adults: The Lifespan Imaging and Function in Elders (LIFE) Study
-  doi: "10.18112/openneuro.ds009071.v1.0.0"
+    A multimodal quantitative neuroimaging and cognitive flexibility dataset in aging
+    adults
+  doi: "10.18112/openneuro.ds009071.v1.0.3"
   year: 2026
   authors:
     - family-names: Wolfe
