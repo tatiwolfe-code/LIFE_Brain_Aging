@@ -20,10 +20,9 @@ use, modify, and redistribute.
 If you use this code, or data produced with it, please cite the LIFE dataset:
 
 > Wolfe, T., Calvert, M. L., Isaac, L., Clontz, S., Shell, A., Kelly, E.,
-> Dunn, L. B., Koscik, T., & James, G. A. *A multimodal neuroimaging and
-> cognitive flexibility dataset in aging adults: The Lifespan Imaging and
-> Function in Elders (LIFE) Study.* OpenNeuro.
-> doi:10.18112/openneuro.ds009071.v1.0.0
+> Dunn, L. B., Koscik, T., & James, G. A. *A multimodal quantitative neuroimaging and
+> cognitive flexibility dataset in aging adults * OpenNeuro.
+> doi:10.18112/openneuro.ds009071.v1.0.3
 
 `CITATION.cff` carries the same citation in machine-readable form; GitHub's
 "Cite this repository" button and most reference managers read it directly.
@@ -211,5 +210,5 @@ Released under the **MIT License** — free to use, modify and redistribute.
 See `LICENSE` for the terms.
 
 Citation is **requested, not required**: if you use this code, please cite the
-LIFE dataset (doi:10.18112/openneuro.ds009071.v1.0.0). See *How to cite* above,
+LIFE dataset (doi:10.18112/openneuro.ds009071.v1.0.3). See *How to cite* above,
 or `CITATION.cff` for the machine-readable form.
